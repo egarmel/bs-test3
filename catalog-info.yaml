@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: 
+  name: "bs-test3"
   description: "bs-test3"
   annotations:
     github.com/project-slug: egarmel/bs-test3
